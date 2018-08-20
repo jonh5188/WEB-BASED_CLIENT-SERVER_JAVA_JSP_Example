@@ -1,9 +1,3 @@
-<!--
-Jonathan Henson
-jmh35062
-HW3
--->
-
 <%@ page import="code.*,java.io.*;"%>
 
 <html>
