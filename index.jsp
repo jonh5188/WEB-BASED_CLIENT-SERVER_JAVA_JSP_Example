@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>CS431 - Programming Assignment 3</title>
+    <title>Project 3</title>
   </head>
   <body>
     <style type="text/css">
